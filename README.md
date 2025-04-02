@@ -20,6 +20,6 @@
 
 
 
-<p align="center">Ride Calm, life long 🏍️</p>
+<p align="left">Ride Calm, life long 🏍️</p>
 
 ![](./chillride.gif)
