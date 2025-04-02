@@ -22,5 +22,4 @@
 
 <p align="center">Ride Calm, life long 🏍️</p>
 
-![](./chillride
-.gif)
+![](./chillride.gif)
