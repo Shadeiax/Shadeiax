@@ -3,7 +3,7 @@
   <br/>
   <p align="center"><br>
  <p align="center"><br>
-  <a href="https://github.com/yungbeatz">
+  <a href="https://github.com/shadeiax">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadeiax&theme=dark"/>
      </a>
   </p>
@@ -20,6 +20,6 @@
 
 
 
-<p align="center">☔If it's raining....stay inside coding!🌃</p>
+<p align="center">Ride Calm, life long 🏍️</p>
 
 ![](./2825711.gif)
